@@ -1,0 +1,637 @@
+C:\Users\jacob\Desktop\Java Work>mkdir directories
+
+C:\Users\jacob\Desktop\Java Work>cd directories
+
+C:\Users\jacob\Desktop\Java Work\directories>mkdir Monkeys     
+         
+C:\Users\jacob\Desktop\Java Work\directories>mkdir images
+
+C:\Users\jacob\Desktop\Java Work\directories>mkdir e-texts
+
+C:\Users\jacob\Desktop\Java Work\directories>mkdir Dogs
+
+C:\Users\jacob\Desktop\Java Work\directories>null>>structure.txt
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories>null>>index.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories>null>>forbidden.txt
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories     
+
+09/30/2020  10:24 PM    <DIR>          .
+09/30/2020  10:24 PM    <DIR>          ..
+09/30/2020  10:24 PM    <DIR>          Dogs
+09/30/2020  10:23 PM    <DIR>          e-texts
+09/30/2020  10:24 PM                 0 forbidden.txt
+09/30/2020  10:23 PM    <DIR>          images
+09/30/2020  10:24 PM                 0 index.html
+09/30/2020  10:23 PM    <DIR>          Monkeys
+09/30/2020  10:24 PM                 0 structure.txt
+               3 File(s)              0 bytes
+               6 Dir(s)  531,298,902,016 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories>cd Monkeys
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>mkdir hate
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>mkdir like
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>null>>bananas.html bones.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys
+
+09/30/2020  10:25 PM    <DIR>          .
+09/30/2020  10:25 PM    <DIR>          ..
+09/30/2020  10:25 PM                 0 bananas.html
+09/30/2020  10:24 PM    <DIR>          hate
+09/30/2020  10:24 PM    <DIR>          like
+               1 File(s)              0 bytes
+               4 Dir(s)  531,298,414,592 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>null>>bones.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys
+
+09/30/2020  10:25 PM    <DIR>          .
+09/30/2020  10:25 PM    <DIR>          ..
+09/30/2020  10:25 PM                 0 bananas.html
+09/30/2020  10:25 PM                 0 bones.html
+09/30/2020  10:24 PM    <DIR>          hate
+09/30/2020  10:24 PM    <DIR>          like
+               2 File(s)              0 bytes
+               4 Dir(s)  531,298,414,592 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories>cd Monkeys
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys
+
+09/30/2020  10:25 PM    <DIR>          .
+09/30/2020  10:25 PM    <DIR>          ..
+09/30/2020  10:25 PM                 0 bananas.html
+09/30/2020  10:25 PM                 0 bones.html
+09/30/2020  10:24 PM    <DIR>          hate
+09/30/2020  10:24 PM    <DIR>          like
+               2 File(s)              0 bytes
+               4 Dir(s)  531,298,455,552 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>del *.html 
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys
+
+09/30/2020  10:26 PM    <DIR>          .
+09/30/2020  10:26 PM    <DIR>          ..
+09/30/2020  10:24 PM    <DIR>          hate
+09/30/2020  10:24 PM    <DIR>          like
+               0 File(s)              0 bytes
+               4 Dir(s)  531,298,455,552 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>cd hate
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\hate>null>>bananas.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\hate>null>>bones.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\hate>dir  
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys\hate
+
+09/30/2020  10:26 PM    <DIR>          .
+09/30/2020  10:26 PM    <DIR>          ..
+09/30/2020  10:26 PM                 0 bananas.html
+09/30/2020  10:26 PM                 0 bones.html
+               2 File(s)              0 bytes
+               2 Dir(s)  531,298,402,304 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\hate>cd like
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\hate>../  
+'..' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\hate>cd ..
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>cd likes
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys
+
+09/30/2020  10:26 PM    <DIR>          .
+09/30/2020  10:26 PM    <DIR>          ..
+09/30/2020  10:26 PM    <DIR>          hate
+09/30/2020  10:24 PM    <DIR>          like
+               0 File(s)              0 bytes
+               4 Dir(s)  531,298,521,088 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>cd like
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>null>>bananas.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>null>>bones.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>dir  
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like
+
+09/30/2020  10:27 PM    <DIR>          .
+09/30/2020  10:27 PM    <DIR>          ..
+09/30/2020  10:27 PM                 0 bananas.html
+09/30/2020  10:27 PM                 0 bones.html
+               2 File(s)              0 bytes
+               2 Dir(s)  531,298,521,088 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories>cd images
+
+C:\Users\jacob\Desktop\Java Work\directories\images>mkdir cartoons
+
+C:\Users\jacob\Desktop\Java Work\directories\images>mkdir clipart
+
+C:\Users\jacob\Desktop\Java Work\directories\images>cd clipart
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart>mkdir food
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart>mkdir animals
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart>cd 
+food
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart\food>null>>bananas.gif
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart\food>null>>bone.gif
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart\food>cd animals
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart\food>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart>cd 
+animals
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart\animals>null>>dog.gif
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart\animals>null>>monkey.gif
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart\animals>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart>cd 
+cartoons
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart>cd 
+../
+
+C:\Users\jacob\Desktop\Java Work\directories\images>cd cartoons
+
+C:\Users\jacob\Desktop\Java Work\directories\images\cartoons>null>>df971292.jpg
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\cartoons>null>>df950523.jpg
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\cartoons>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\images\cartoons
+
+09/30/2020  10:30 PM    <DIR>          .
+09/30/2020  10:30 PM    <DIR>          ..
+09/30/2020  10:30 PM                 0 df950523.jpg
+09/30/2020  10:29 PM                 0 df971292.jpg
+               2 File(s)              0 bytes
+               2 Dir(s)  531,297,255,424 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\images\cartoons>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories\images>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories>cd e-texts
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>mkdir OReilly,Augustine
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>mkdir Poe,EdgarAllan
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>mkdir Maugham,W.Somerset
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>null>>gutindex.all
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>cd Poe,EdgarAllan
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts
+
+09/30/2020  10:31 PM    <DIR>          .
+09/30/2020  10:31 PM    <DIR>          ..
+09/30/2020  10:30 PM    <DIR>          Augustine
+09/30/2020  10:30 PM    <DIR>          EdgarAllan
+09/30/2020  10:31 PM                 0 gutindex.all
+09/30/2020  10:30 PM    <DIR>          Maugham
+09/30/2020  10:30 PM    <DIR>          OReilly
+09/30/2020  10:30 PM    <DIR>          Poe
+09/30/2020  10:30 PM    <DIR>          W.Somerset
+               1 File(s)              0 bytes
+               8 Dir(s)  531,296,989,184 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>del Poe
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\Poe\*, Are you sure (Y/N)? y
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts
+
+09/30/2020  10:31 PM    <DIR>          .
+09/30/2020  10:31 PM    <DIR>          ..
+09/30/2020  10:30 PM    <DIR>          Augustine
+09/30/2020  10:30 PM    <DIR>          EdgarAllan
+09/30/2020  10:31 PM                 0 gutindex.all
+09/30/2020  10:30 PM    <DIR>          Maugham
+09/30/2020  10:30 PM    <DIR>          OReilly
+09/30/2020  10:30 PM    <DIR>          Poe
+09/30/2020  10:30 PM    <DIR>          W.Somerset
+               1 File(s)              0 bytes
+               8 Dir(s)  531,296,849,920 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>del Poe
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\Poe\*, Are you sure (Y/N)? Y
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts
+
+09/30/2020  10:31 PM    <DIR>          .
+09/30/2020  10:31 PM    <DIR>          ..
+09/30/2020  10:30 PM    <DIR>          Augustine
+09/30/2020  10:30 PM    <DIR>          EdgarAllan
+09/30/2020  10:31 PM                 0 gutindex.all
+09/30/2020  10:30 PM    <DIR>          Maugham
+09/30/2020  10:30 PM    <DIR>          OReilly
+09/30/2020  10:30 PM    <DIR>          Poe
+09/30/2020  10:30 PM    <DIR>          W.Somerset
+               1 File(s)              0 bytes
+               8 Dir(s)  531,296,915,456 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>del EdgarAllan
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\EdgarAllan\*, Are you sure (Y/N)? Y
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories>del EdgarAllan
+Could Not Find C:\Users\jacob\Desktop\Java Work\directories\EdgarAllan
+
+C:\Users\jacob\Desktop\Java Work\directories>del e-texts
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\*, Are you sure (Y/N)? Y
+
+C:\Users\jacob\Desktop\Java Work\directories>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories     
+
+09/30/2020  10:24 PM    <DIR>          .
+09/30/2020  10:24 PM    <DIR>          ..
+09/30/2020  10:24 PM    <DIR>          Dogs
+09/30/2020  10:32 PM    <DIR>          e-texts
+09/30/2020  10:24 PM                 0 forbidden.txt
+09/30/2020  10:27 PM    <DIR>          images
+09/30/2020  10:24 PM                 0 index.html
+09/30/2020  10:26 PM    <DIR>          Monkeys
+09/30/2020  10:24 PM                 0 structure.txt
+               3 File(s)              0 bytes
+               6 Dir(s)  531,296,915,456 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories>cd e-texts
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts
+
+09/30/2020  10:32 PM    <DIR>          .
+09/30/2020  10:32 PM    <DIR>          ..
+09/30/2020  10:30 PM    <DIR>          Augustine
+09/30/2020  10:30 PM    <DIR>          EdgarAllan
+09/30/2020  10:30 PM    <DIR>          Maugham
+09/30/2020  10:30 PM    <DIR>          OReilly
+09/30/2020  10:30 PM    <DIR>          Poe
+09/30/2020  10:30 PM    <DIR>          W.Somerset
+               0 File(s)              0 bytes
+               8 Dir(s)  531,296,915,456 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>mkdir EdgarAllan_Poe
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts
+
+09/30/2020  10:33 PM    <DIR>          .
+09/30/2020  10:33 PM    <DIR>          ..
+09/30/2020  10:33 PM    <DIR>          EdgarAllan_Poe
+               0 File(s)              0 bytes
+               3 Dir(s)  531,296,391,168 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>mkdir Augustine_OReilly
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>mkdir W.Somerset_Maugham
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>null>>gutindex.all
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts
+
+09/30/2020  10:34 PM    <DIR>          .
+09/30/2020  10:34 PM    <DIR>          ..
+09/30/2020  10:33 PM    <DIR>          Augustine_OReilly       
+09/30/2020  10:33 PM    <DIR>          EdgarAllan_Poe
+09/30/2020  10:34 PM                 0 gutindex.all
+09/30/2020  10:34 PM    <DIR>          W.Somerset_Maugham
+               1 File(s)              0 bytes
+               5 Dir(s)  531,295,227,904 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>cd EdgarAllan_Poe
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\EdgarAllan_Poe>null>>poe1v10.txt
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\EdgarAllan_Poe>null>>poe1v10.zip
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\EdgarAllan_Poe>null>>story2.txt
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\EdgarAllan_Poe>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>cd Augustine_OReilly
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\Augustine_OReilly>null>>Alvira_The_heroine_of_Vesuvius.txt
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\Augustine_OReilly>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts\Augustine_OReilly
+
+09/30/2020  10:35 PM    <DIR>          .
+09/30/2020  10:35 PM    <DIR>          ..
+09/30/2020  10:35 PM                 0 Alvira_The_heroine_of_Vesuvius.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  531,298,795,520 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\Augustine_OReilly>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>cd W.Somerset_Maughma
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>cd W.Somertset_Maugham
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts
+
+09/30/2020  10:34 PM    <DIR>          .
+09/30/2020  10:34 PM    <DIR>          ..
+09/30/2020  10:35 PM    <DIR>          Augustine_OReilly       
+09/30/2020  10:34 PM    <DIR>          EdgarAllan_Poe
+09/30/2020  10:34 PM                 0 gutindex.all
+09/30/2020  10:34 PM    <DIR>          W.Somerset_Maugham      
+               1 File(s)              0 bytes
+               5 Dir(s)  531,298,557,952 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>cd W.Somerset_Maugham
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\W.Somerset_Maugham>null>>moon10.txt
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\W.Somerset_Maugham>null>>moona10.zip
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\W.Somerset_Maugham>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories>cd Dogs
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs>cd like
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs>mkdir hate
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs>mkdir like
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs>cd like
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs\like>null>>bones.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs\like>null>>bananas.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs\like>cd ../  
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs>cd hate
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs\hate>null>>bananas.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs\hate>null>>bones.html
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs\hate>dir     
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Dogs\hate
+
+09/30/2020  10:37 PM    <DIR>          .
+09/30/2020  10:37 PM    <DIR>          ..
+09/30/2020  10:37 PM                 0 bananas.html
+09/30/2020  10:37 PM                 0 bones.html
+               2 File(s)              0 bytes
+               2 Dir(s)  531,298,193,408 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs\hate>cd ../  
+
+C:\Users\jacob\Desktop\Java Work\directories\Dogs>cd ../
+
+C:\Users\jacob\Desktop\Java Work\directories>cd ../
+
+C:\Users\jacob\Desktop\Java Work>cd directories
+
+C:\Users\jacob\Desktop\Java Work\directories>cd images/clipart/food
+
+C:\Users\jacob\Desktop\Java Work\directories\images\clipart\food>cd ../../..
+
+C:\Users\jacob\Desktop\Java Work\directories>cd e-text/EdgarAllan_Poe
+The system cannot find the path specified.
+
+C:\Users\jacob\Desktop\Java Work\directories>cd e-texts/EdgarAllan_Poe
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\EdgarAllan_Poe>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\e-texts\EdgarAllan_Poe
+
+09/30/2020  10:34 PM    <DIR>          .
+09/30/2020  10:34 PM    <DIR>          ..
+09/30/2020  10:34 PM                 0 poe1v10.txt
+09/30/2020  10:34 PM                 0 poe1v10.zip
+09/30/2020  10:34 PM                 0 story2.txt
+               3 File(s)              0 bytes
+               2 Dir(s)  531,297,681,408 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\e-texts\EdgarAllan_Poe>cd ../../images
+
+C:\Users\jacob\Desktop\Java Work\directories\images>cd
+C:\Users\jacob\Desktop\Java Work\directories\images
+
+C:\Users\jacob\Desktop\Java Work\directories\images>mkdir photographs
+
+C:\Users\jacob\Desktop\Java Work\directories\images>cd photographs
+
+C:\Users\jacob\Desktop\Java Work\directories\images\photographs>null>>sunrise.jpg
+'null' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\photographs>move sunrise.jpg ../
+        1 file(s) moved.
+
+C:\Users\jacob\Desktop\Java Work\directories\images\photographs>cd ../../Monkeys/like
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>open 
+sublime
+'open' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>open 
+subl
+'open' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>dir  
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like
+
+09/30/2020  10:27 PM    <DIR>          .
+09/30/2020  10:27 PM    <DIR>          ..
+09/30/2020  10:27 PM                 0 bananas.html
+09/30/2020  10:27 PM                 0 bones.html
+               2 File(s)              0 bytes
+               2 Dir(s)  531,295,178,752 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>start sublime
+The system cannot find the file sublime.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>start vstudio
+The system cannot find the file vstudio.
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>del bananas.html
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>dir  
+ Volume in drive C is Windows
+ Volume Serial Number is 960D-4521
+
+ Directory of C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like
+
+09/30/2020  10:46 PM    <DIR>          .
+09/30/2020  10:46 PM    <DIR>          ..
+09/30/2020  10:27 PM                 0 bones.html
+               1 File(s)              0 bytes
+               2 Dir(s)  531,298,185,216 bytes free
+
+C:\Users\jacob\Desktop\Java Work\directories\Monkeys\like>
